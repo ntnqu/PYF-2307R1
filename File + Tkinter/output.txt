@@ -1,0 +1,4 @@
+EMPLOYEE
+Tên: Tèo, ID: 123, Tổng giờ làm: 31.5, Trung bình giờ làm: 6.3
+Tên: Minh, ID: 456, Tổng giờ làm: 36.8, Trung bình giờ làm: 7.36
+Tên: Toàn, ID: 789, Tổng giờ làm: 39.5, Trung bình giờ làm: 7.9
